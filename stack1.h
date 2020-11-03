@@ -15,4 +15,4 @@ int isfullint(stack1 *s);
 void pushint(stack1 *s, Integer no);
 Integer popint(stack1 *s);
 Integer peek(stack1 *s);
-Integer topOf(stack1 *s);
+Integer topOfStack(stack1 *s);
